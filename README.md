@@ -10,7 +10,7 @@ Top-performing months, customer demographics, and sales channels.
 
 Interactive dashboard for easy data exploration.
 
-Questions (KPIs)
+## Questions (KPIs)
 
 1.Compare the sales and orders using single chart.
 
@@ -26,7 +26,7 @@ Questions (KPIs)
 
 7.Which Channel is contributing maximum to the sales?
 
-Process 
+## Process 
 
 Data Cleaning: Verified the data for missing values and anomalies. Ensured the data was consistent in format and types.
 
@@ -34,11 +34,11 @@ Analysis: Created pivot tables to answer the questions.
 
 Dashboard Creation: Merged all the pivot tables into a single dashboard and added slicers for interactivity.
 
-Dashboard 
+## Dashboard 
 
 ![image](https://github.com/user-attachments/assets/71382575-62e5-46c3-ad7b-34487631c0bb)
 
-Project Insights
+## Project Insights
 
 Customer Gender: Women are more likely to purchase, making up around 65% of total sales.
 
