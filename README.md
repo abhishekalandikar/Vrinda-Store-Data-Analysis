@@ -1,7 +1,7 @@
 # Vrinda Store Data Analysis (2022)
 This project analyzes the sales data from Vrinda Store for the year 2022. The goal is to provide valuable insights to help the store owner understand customer behavior and improve sales in 2023.
 
-Project Overview
+## Project Overview
 We used Microsoft Excel to clean and analyze the data. The analysis includes:
 
 Sales and order trends.
